@@ -1,13 +1,13 @@
 {
-  "main.css": "/sultan-brompton/static/css/main.31b089e1.chunk.css",
-  "main.js": "/sultan-brompton/static/js/main.2798b9ef.chunk.js",
-  "main.js.map": "/sultan-brompton/static/js/main.2798b9ef.chunk.js.map",
-  "runtime~main.js": "/sultan-brompton/static/js/runtime~main.1eeaac37.js",
-  "runtime~main.js.map": "/sultan-brompton/static/js/runtime~main.1eeaac37.js.map",
-  "static/js/2.8e3938f9.chunk.js": "/sultan-brompton/static/js/2.8e3938f9.chunk.js",
-  "static/js/2.8e3938f9.chunk.js.map": "/sultan-brompton/static/js/2.8e3938f9.chunk.js.map",
-  "index.html": "/sultan-brompton/index.html",
-  "precache-manifest.9e088bb8586d49fb242646b28eefedec.js": "/sultan-brompton/precache-manifest.9e088bb8586d49fb242646b28eefedec.js",
-  "service-worker.js": "/sultan-brompton/service-worker.js",
-  "static/css/main.31b089e1.chunk.css.map": "/sultan-brompton/static/css/main.31b089e1.chunk.css.map"
+  "main.css": "/React-Ecommerce-App-with-Redux/static/css/main.31b089e1.chunk.css",
+  "main.js": "/React-Ecommerce-App-with-Redux/static/js/main.623ae435.chunk.js",
+  "main.js.map": "/React-Ecommerce-App-with-Redux/static/js/main.623ae435.chunk.js.map",
+  "runtime~main.js": "/React-Ecommerce-App-with-Redux/static/js/runtime~main.b02ee1bf.js",
+  "runtime~main.js.map": "/React-Ecommerce-App-with-Redux/static/js/runtime~main.b02ee1bf.js.map",
+  "static/js/2.8e3938f9.chunk.js": "/React-Ecommerce-App-with-Redux/static/js/2.8e3938f9.chunk.js",
+  "static/js/2.8e3938f9.chunk.js.map": "/React-Ecommerce-App-with-Redux/static/js/2.8e3938f9.chunk.js.map",
+  "index.html": "/React-Ecommerce-App-with-Redux/index.html",
+  "precache-manifest.ea120f61ed9942cc23a485a2c8e1698f.js": "/React-Ecommerce-App-with-Redux/precache-manifest.ea120f61ed9942cc23a485a2c8e1698f.js",
+  "service-worker.js": "/React-Ecommerce-App-with-Redux/service-worker.js",
+  "static/css/main.31b089e1.chunk.css.map": "/React-Ecommerce-App-with-Redux/static/css/main.31b089e1.chunk.css.map"
 }

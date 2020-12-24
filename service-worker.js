@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sultan-brompton/precache-manifest.9e088bb8586d49fb242646b28eefedec.js"
+  "/React-Ecommerce-App-with-Redux/precache-manifest.ea120f61ed9942cc23a485a2c8e1698f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sultan-brompton/index.html", {
+workbox.routing.registerNavigationRoute("/React-Ecommerce-App-with-Redux/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
