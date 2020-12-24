@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "623ae43560d3bb7b4488",
+    "revision": "725d1b938847f2a2378a",
     "url": "/React-Ecommerce-App-with-Redux/static/css/main.31b089e1.chunk.css"
   },
   {
-    "revision": "623ae43560d3bb7b4488",
-    "url": "/React-Ecommerce-App-with-Redux/static/js/main.623ae435.chunk.js"
+    "revision": "725d1b938847f2a2378a",
+    "url": "/React-Ecommerce-App-with-Redux/static/js/main.725d1b93.chunk.js"
   },
   {
     "revision": "b02ee1bfb0823bf3014d",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/React-Ecommerce-App-with-Redux/static/js/2.8e3938f9.chunk.js"
   },
   {
-    "revision": "a000f4acd898af091ab67fd0ef000a23",
+    "revision": "738f761d59e3d257382dfafa66555a47",
     "url": "/React-Ecommerce-App-with-Redux/index.html"
   }
 ];
