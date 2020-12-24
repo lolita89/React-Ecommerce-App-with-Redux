@@ -9,16 +9,19 @@ const ProductDetail = (props) => {
         title,
         images,
         brand,
-        price,
-        cpu,
-        camera,
-        size,
+        color,
+        material,
+        type,
+        gears,
+        fender,
         weight,
-        display,
-        battery,
-        memory,
+        brake,
+        luggage_rack,
+        lighting,
+        price,
+        year,
+        id,
         description,
-        id
     } = props.product;
 
 
@@ -45,28 +48,44 @@ const ProductDetail = (props) => {
                     <dd className="text-capitalize">{brand}</dd>
                 </dl>
                 <dl className="param param-feature">
-                    <dt>Size</dt>
-                    <dd>{size}</dd>
+                    <dt>Year</dt>
+                    <dd className="text-capitalize">{year}</dd>
                 </dl>
                 <dl className="param param-feature">
-                    <dt>Camera</dt>
-                    <dd>{camera}</dd>
+                    <dt>Color</dt>
+                    <dd className="text-capitalize">{color}</dd>
                 </dl>
                 <dl className="param param-feature">
-                    <dt>CPU</dt>
-                    <dd>{cpu}</dd>
+                    <dt>Material</dt>
+                    <dd className="text-capitalize">{material}</dd>
                 </dl>
                 <dl className="param param-feature">
-                    <dt>Memory</dt>
-                    <dd>{memory}</dd>
+                    <dt>Type</dt>
+                    <dd className="text-capitalize">{type}</dd>
                 </dl>
                 <dl className="param param-feature">
-                    <dt>Display</dt>
-                    <dd>{display}</dd>
+                    <dt>Gears</dt>
+                    <dd className="text-capitalize">{gears}</dd>
                 </dl>
                 <dl className="param param-feature">
-                    <dt>Battery</dt>
-                    <dd>{battery}</dd>
+                    <dt>Fender</dt>
+                    <dd className="text-capitalize">{fender}</dd>
+                </dl>
+                <dl className="param param-feature">
+                    <dt>Weight</dt>
+                    <dd className="text-capitalize">{weight}</dd>
+                </dl>
+                <dl className="param param-feature">
+                    <dt>Brake</dt>
+                    <dd className="text-capitalize">{brake}</dd>
+                </dl>
+                <dl className="param param-feature">
+                    <dt>Luggage Rack</dt>
+                    <dd className="text-capitalize">{luggage_rack}</dd>
+                </dl>
+                <dl className="param param-feature">
+                    <dt>Lighting</dt>
+                    <dd className="text-capitalize">{lighting}</dd>
                 </dl>
                 <hr/>
                 <hr/>
