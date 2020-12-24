@@ -33,7 +33,7 @@ const ProductDetail = (props) => {
 
                 <p className="price-detail-wrap">
 	<span className="price h3 text-warning">
-		<span className="currency">$</span><span className="num">{formatMoney(price)}</span>
+		<span className="currency">Rp </span><span className="num">{formatMoney(price)}</span>
 	</span>
                 </p>
                 <dl className="item-property">
