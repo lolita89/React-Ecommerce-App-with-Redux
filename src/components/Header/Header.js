@@ -1,11 +1,12 @@
 import React from 'react';
+import './Header.scss';
 import {connect} from 'react-redux';
 import {NavLink} from 'react-router-dom';
 
 const Header = ({cartLength}) => {
 
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <nav className="navbar navbar-expand-lg navbar-dark fixed-top">
             <div className="container">
                 <NavLink className="navbar-brand" to="/">Sultan Brompton</NavLink>
                 <div>

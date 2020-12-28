@@ -16,6 +16,7 @@ const Product = (props) => {
         price,
         images,
         description,
+        year,
         id,
     } = props.product;
 
@@ -79,6 +80,8 @@ const Product = (props) => {
                 </h4>
                 <h5 className="product__price">Rp {formatMoney(price)}</h5>
                 <p className="card-text product__description">{description}</p>
+                <p className="card-text product__description">{year}</p>
+
                 <button
                     onClick={() => {
                         props.dispatch(addProductToCart({...props.product}))
