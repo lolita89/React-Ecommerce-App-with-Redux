@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/React-Ecommerce-App-with-Redux/static/js/2.1385d1d2.chunk.js"
   },
   {
-    "revision": "fb29eb9b6627669e2b5f39f9a796ce5a",
+    "revision": "5177a60e2c1f3fe497829c597026d10c",
     "url": "/React-Ecommerce-App-with-Redux/index.html"
   }
 ];
