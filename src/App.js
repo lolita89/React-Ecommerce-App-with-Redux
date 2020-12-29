@@ -23,9 +23,8 @@ class App extends Component {
             <BrowserRouter>
             <React.Fragment>
                 <Header/>
-                <Home/>
                 <Switch>
-                    <Route exact path={'/React-Ecommerce-App-with-Redux/'} render={() => {
+                    <Route exact path={'/'} render={() => {
                         return <Redirect to={'/products'}/>
                     }}/>
                     <Route exact path={'/products'} component={Home}/>
