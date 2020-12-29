@@ -23,14 +23,15 @@ class App extends Component {
             <BrowserRouter>
             <React.Fragment>
                 <Header/>
-                <Switch>
+                <Home/>
+                {/* <Switch>
                     <Route exact path={'/'} render={() => {
                         return <Redirect to={'/products'}/>
                     }}/>
                     <Route exact path={'/products'} component={Home}/>
                     <Route exact path={'/products/:id'} component={ProductDetail}/>
                     <Route exact patr={'/cart'} component={ShoppingCart}/>
-                </Switch>
+                </Switch> */}
                 <Footer/>
             </React.Fragment>
             </BrowserRouter>
