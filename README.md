@@ -1,6 +1,6 @@
 # Here is the live demo <a href="https://lolita89.github.io/React-Ecommerce-App-with-Redux/" style="font-size: 40px">CLICK TO SEE DEMO</a>
 
-This is a webshop project for Sultan Brompton
+This is a Bike Webshop Project for Sultan Brompton
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
